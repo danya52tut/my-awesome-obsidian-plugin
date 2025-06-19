@@ -1,6 +1,6 @@
 {
   "name": "obsidian-business-card-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Free Obsidian plugin: scan business cards with OCR, preview, manual editing, Russian and English support, image enhancement.",
   "main": "main.js",
   "keywords": ["obsidian", "plugin", "ocr", "business-card", "scanner", "free"],
