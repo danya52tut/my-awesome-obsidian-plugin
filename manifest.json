@@ -3,7 +3,7 @@
   "name": "Business Card Scanner",
   "version": "1.0.1",
   "minAppVersion": "1.9.2",
-  "description": "Obsidian plugin for scanning business cards and extracting contact information.",
+  "description": "Scan business cards with OCR and generate structured Markdown notes.",
   "author": "danya52tut",
   "authorUrl": "https://github.com/danya52tut",
   "main": "main.js",
