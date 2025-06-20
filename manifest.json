@@ -1,7 +1,7 @@
 {
   "id": "business-card-scanner",
   "name": "Business Card Scanner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minAppVersion": "1.9.2",
   "description": "Scan business cards with OCR and generate structured Markdown notes.",
   "author": "danya52tut",
