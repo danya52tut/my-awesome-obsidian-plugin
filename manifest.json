@@ -1,11 +1,11 @@
 {
-  "id": "business-card-scanner",
-  "name": "Business Card Scanner",
-  "version": "1.0.2",
-  "minAppVersion": "1.9.2",
-  "description": "Scan business cards with OCR and generate structured Markdown notes.",
-  "author": "danya52tut",
-  "authorUrl": "https://github.com/danya52tut",
-  "main": "main.js",
-  "isDesktopOnly": false
+      "id": "business-card-scanner",
+      "name": "Business Card Scanner",
+      "version": "1.0.2",
+      "minAppVersion": "0.12.0",
+      "description": "A plugin to scan business cards.",
+      "author": "danya52tut",
+      "authorUrl": "https://github.com/danya52tut",
+      "isDesktopOnly": false,
+      "main": "main.js"
 }
