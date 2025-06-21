@@ -1,7 +1,7 @@
 {
       "id": "business-card-scanner",
       "name": "Business Card Scanner",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "minAppVersion": "0.12.0",
       "description": "A plugin to scan business cards.",
       "author": "danya52tut",
